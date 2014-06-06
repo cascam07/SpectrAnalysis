@@ -17,4 +17,7 @@ The general guidelines for the operation of this program are:
 2. Place a collection of altered samples that you would like to compare to the standards in the "experimental" directory.
 3. Run the jar file. Information on what each feature of the program does once running can be accessed by clicking the "Help" button.
 
-At this time, it is not currently possible to refresh the files being read by SpectrAnalysis while it is running. If you would like to look at a new set of data files, you must replace the old files from the "standards" and "experimental" folders with your new files and open a new instance of SpectrAnalysis. This is because the contents of these folders is read at the time SpectrAnalysis is opened. This restriction may be changed in the future.
+At this time, it is not currently possible to refresh the files being read by SpectrAnalysis while it is running. If you 
+would like to look at a new set of data files, you must replace the old files from the "standards" and "experimental" folders
+with your new files and open a new instance of SpectrAnalysis. This is because the contents of these folders is read at the 
+time SpectrAnalysis is opened. This restriction may be changed in the future.
