@@ -1,4 +1,4 @@
-SpectrAnalysis was initially concieved of and written by Cameron Casey as a part of a research contract with professor Jim
+SpectrAnalysis was initially conceived of and written by Cameron Casey as a part of a research contract with Professor Jim
 Neitzel at the Evergreen State College. This program is intended for academic use only and not to be used for profit. This
 project is open to the public for use and for further development. Other users are encouraged to add new features and
 fine-tune existing ones to improve the utility of SpectrAnalysis.
